@@ -7,3 +7,5 @@
 - MPU9250 - SPI
 
 ![Test](Test_Environment.jpg)
+
+I modified the existing MPU9250 SPI library to apply a Kalman Filter and used it.
